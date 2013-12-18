@@ -3,13 +3,13 @@
     "type": "library",
     "description": "Zend Framework 2 module that provides complete integration of Assetic library",
     "keywords": ["assetic", "assets", "resources", "css", "js", "less"],
-    "homepage": "https://github.com/widmogrod/zf2-assetic-module",
+    "homepage": "https://github.com/SuPa86000/zf2-assetic-module",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gabriel Habryn",
-            "email": "widmogrod@gmail.com",
-            "homepage": "https://github.com/widmogrod/zf2-assetic-module",
+            "name": "QUINTARD Thibaud",
+            "email": "contact@supa-creation.com",
+            "homepage": "https://github.com/SuPa86000/zf2-assetic-module",
             "role": "Developer"
         }
     ],
